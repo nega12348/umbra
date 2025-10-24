@@ -1,0 +1,1 @@
+print("loaded, thank u for using umbra (autoexec works)")
